@@ -23,4 +23,4 @@ public class Lab073 {
     }
 
 // java.lang package is always available. It is imported by default
-}
+
